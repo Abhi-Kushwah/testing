@@ -1,0 +1,27 @@
+Steps to learn git commands
+---------------------------
+1. Login gitHub
+2. Create repository
+3. Clone repository in local system with command: open terminal --> git clone git_url
+------------- Commit with eclipse --------------(repository copy karne ke liye)
+
+4. Open that git clone folder in eclipse as workspace
+5. create project in eclipse
+6. create java file and save
+7. right click on project and click on Team after that click on commit
+8. click on doudle ++ (add files that need to commit) afterthat click on commit--> then push
+9. Done
+
+------------ Commit with (CMD)terminal ---------------
+4. copy any file or folder at clone directory location 
+// run command step by step
+5. git branch  // for confirming branch(default is main)
+6. git add .  // add all files from current directory location for commiting
+7. git commit  -m "any message you want about files"
+8. git push origin main
+     or
+ git fetch origin
+ git merge origin main
+
+
+GIT ToKEN :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
